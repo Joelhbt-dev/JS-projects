@@ -1,0 +1,19 @@
+#Tagline{
+
+    text-align: center;
+    font-size:18px;
+}
+
+#buttons{
+
+    display:flex;
+    justify-content:center;
+}
+
+button{
+
+    height:50px;
+    width:80px;
+    margin:4px;
+}
+
