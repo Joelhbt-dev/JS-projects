@@ -1,0 +1,78 @@
+body{
+
+    background-color: #015A84;
+}
+
+
+p{
+    color:#F1EDEA;
+    font-family: Roboto;
+    font-size:28px;
+    text-align: center;
+}
+
+.btn-container{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+
+#BTN{
+
+    height:70px;
+    width:140px;
+    background-color: #BADFCD;
+    border: 4px solid black;
+    border-radius:8px;
+    font-size:18px;
+    margin-bottom:20px;
+}
+
+.Quote-container{
+
+    min-height:300px;
+    max-width:900px;
+    width:90%;
+    margin:0 auto;
+    padding:20px;
+    background-color:#81cea9;
+    border:4px solid black;
+    border-radius:6px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+
+
+}
+
+#quote-text{
+
+    font-size:30px;
+    font-family:Roboto;
+    font-style: italic;
+    color:#2A3F38;
+    margin-bottom:8px;
+    text-align:center;
+    
+}
+
+#quote-author{
+
+    font-size:20px;
+    font-family:Roboto;
+    text-align:right;
+    margin-top:5px;
+
+
+}
+
+.quoteContent{
+
+    display:flex;
+    flex-direction:column;
+    max-width:80%;
+}
+
