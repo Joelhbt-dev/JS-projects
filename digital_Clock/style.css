@@ -1,0 +1,22 @@
+#parent{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+}
+
+body{
+
+    background-color:black;
+    margin:0;
+    height:100vh;
+}
+
+#clock{
+
+    font-size: 48px;
+    font-family:Roboto;
+    color:white;
+    letter-spacing: 2px;
+}
